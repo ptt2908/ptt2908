@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->• I’m Pham Tan Thinh.
 •	I’m a senior student and I am pursuing a major in Control Engineering and Automation at Ho Chi Minh City University of Technology (HCMUT).
-
 •	🔭 I am extremely enthusiastic about researching control algorithms for application in automotive embedded systems and robotics.
 
